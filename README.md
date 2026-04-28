@@ -1,4 +1,4 @@
-# 🌈 MoodBot — The Chatbot I Wish I Could Be
+#  MoodBot — The Chatbot I Wish I Could Be
 
 I take life too seriously. I worry. I overthink.
 
